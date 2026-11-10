@@ -1,32 +1,37 @@
-<a href="https://www.project2100.com/">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-abstract-poster.png" />
-    <img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-abstract-flow.gif" alt="Project2100. Intelligence, connected. Abstract ASCII data streams connect AI analysis, performance charts and reporting above a landscape." width="100%" />
-  </picture>
-</a>
+<p align="center">
+<a href="https://www.project2100.com/"><picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-mobile-poster.png" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-mobile-flow.gif" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-abstract-poster.png" />
+  <img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-abstract-flow.gif" alt="Project2100. Intelligence, connected. Abstract animated data streams, AI analysis, charts and reporting above an ASCII landscape." width="100%" />
+</picture></a><br />
+<a href="https://www.project2100.com/"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/landscape-services-mobile.png" />
+  <img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/landscape-services.png" alt="What we build: connected data, automated reporting, applied AI, planning and forecasting for finance and operations teams." width="100%" />
+</picture></a><br />
+<a href="https://www.project2100.com/coreiq"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/landscape-coreiq-mobile.png" />
+  <img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/landscape-coreiq.png" alt="CoreIQ: a workspace for reporting, data exploration and AI-assisted analysis. Connect and explore your data, ask in plain language and review commentary. Explore CoreIQ." width="100%" />
+</picture></a><br />
+<a href="mailto:contact@project2100.com"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/landscape-contact-mobile.png" />
+  <img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/landscape-contact.png" alt="A clearer view starts here. Talk to Project2100: contact@project2100.com." width="100%" />
+</picture></a>
+</p>
 
-# AI and reporting, built around people.
+<p align="center">
+  <a href="https://www.linkedin.com/company/project2100pty-ltd/" title="Project2100 on LinkedIn"><img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/social-linkedin.png" alt="LinkedIn" width="64" height="64" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Project2100HQ" title="Project2100 on X"><img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/social-x.png" alt="X" width="64" height="64" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/project2100_/" title="Project2100 on Instagram"><img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/social-instagram.png" alt="Instagram" width="64" height="64" /></a>
+</p>
 
-We design, build and run data platforms, automated reporting and AI workflows for finance and operations teams.
+<details>
+<summary>About Project2100</summary>
 
-By connecting the systems behind your business, we turn scattered information into reports, analysis and answers people can use.
+Project2100 builds data, reporting and AI systems for finance and operations teams. CoreIQ brings reporting, data exploration and AI-assisted analysis into one workspace.
 
-### From source systems to better decisions
+[Project2100](https://www.project2100.com/) · [Explore CoreIQ](https://www.project2100.com/coreiq) · [Contact](mailto:contact@project2100.com)
 
-| Connected data | Automated reporting |
-| :--- | :--- |
-| Bring finance and operational systems into a shared reporting model. | Turn recurring management reports, board packs and commentary into repeatable workflows. |
-| **Applied AI** | **Planning and analysis** |
-| Put assistants and agents to work with your business data and processes. | Build forecasts, compare scenarios and understand the drivers behind performance. |
-
-### Meet CoreIQ
-
-A workspace for your reporting, data exploration and AI-assisted analysis. Ask questions in plain language and explore the figures behind the answer.
-
-[Explore CoreIQ](https://www.project2100.com/coreiq)
-
----
-
-**Less time preparing information. More time putting it to work.**
-
-[Website](https://www.project2100.com/) &nbsp; · &nbsp; [Talk to an engineer](mailto:contact@project2100.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/company/project2100pty-ltd/)
+</details>
