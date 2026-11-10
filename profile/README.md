@@ -1,7 +1,7 @@
 <a href="https://www.project2100.com/">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-landscape.png" />
-    <img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-data-flow.gif" alt="Project2100. Intelligence, connected. Data flows from an ASCII human into graphs over an ASCII mountain landscape." width="100%" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-abstract-poster.png" />
+    <img src="https://raw.githubusercontent.com/Project2100-PTY-LTD/.github/main/profile/assets/hero-abstract-flow.gif" alt="Project2100. Intelligence, connected. Abstract ASCII data streams connect AI analysis, performance charts and reporting above a landscape." width="100%" />
   </picture>
 </a>
 
